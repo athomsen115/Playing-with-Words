@@ -1,4 +1,4 @@
-#Palingrams
+# Palingrams
 
 Palingrams are two-words that form a palindrome.
 Examples are 'nurses run' or 'stir grits'.
