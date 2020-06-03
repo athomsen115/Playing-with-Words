@@ -1,3 +1,3 @@
-#Name Generator Program
+# Name Generator Program
 
 Generates an awesome superhero name
